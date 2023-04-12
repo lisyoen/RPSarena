@@ -1,5 +1,7 @@
 # RPSgene
 Rock Paper Scissors gene game server
+https://docs.google.com/presentation/d/1ECB5zgLFHZ1e9QwkAz0lQ1wzsbswbC-IXnoztN8N7gM/edit?usp=sharing
+
 # 개요
 - 전사 개발자들이 즐길 수 있는 경쟁 플랫폼 구축
 - 간단한 게임 규칙을 REST API 로 개발해 개인PC 에서 동작시킬 수 있도록 구성
